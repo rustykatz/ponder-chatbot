@@ -7,8 +7,10 @@ Offline AI Chatbot skeleton built using Gradio, designed to provide a uniform en
 ![Alt text](resources/2024_05_01_current_state.jpg?raw=true)
 
 
-## Pre-Requisites 
+## Setup
+### Pre-Requisites
 
-## How to Run 
+### Changing Models 
 
-## Changing Models
+## Running the App
+
